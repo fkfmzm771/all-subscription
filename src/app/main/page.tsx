@@ -5,7 +5,7 @@ export default function Main() {
     <>
       <main>
         <Box>test3</Box>
-        main page
+        main page test5
       </main>
     </>
   );
